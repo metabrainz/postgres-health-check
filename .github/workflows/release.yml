@@ -17,5 +17,5 @@ jobs:
         goarch: amd64
         goversion: 1.20.4
         binary_name: "postgres-health-check"
-        extra_files: README.md
         overwrite: true
+        compress_assets: OFF
